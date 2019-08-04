@@ -5,5 +5,7 @@ march 2k
 april 4k
 may 5k
 june 6k
-
+july 7k
+aug 8k
+sep 8k
 
